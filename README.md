@@ -1,5 +1,5 @@
-! Important!
-Before running the code, check the requirements!
+## ! Important! ##
+## Before running the code, check the requirements! ##
 
 # Introduction:
 In this assignment, I delve into Zipf's Law of Abbreviation (ZLA), a statistical principle that describes the frequency distribution of words in natural language. To conduct this exploration, I've created three distinct datasets: two derived from song lyrics in English and German and one from non-fiction Russian texts obtained from the Gutenberg Project.
