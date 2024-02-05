@@ -1,4 +1,6 @@
-## Important: Before running the code, check the requirements! ##
+## Important:
+Check the requirements before running the code!
+Download and install language dictionaries: for English, German and Russian languages. Check the installation code here: https://spacy.io/usage/models
 
 # Introduction:
 In this assignment, I delve into Zipf's Law of Abbreviation (ZLA), a statistical principle that describes the frequency distribution of words in natural language. To conduct this exploration, I've created three distinct datasets: two derived from song lyrics in English and German and one from non-fiction Russian texts obtained from the Gutenberg Project.
